@@ -14,15 +14,55 @@ Córdoba, Argentina 🇦🇷
 
 ---
 
+<div align="center">
+
+### 🌐 Elegí tu idioma / Choose your language
+
+<details>
+<summary><b>🇦🇷 Español</b> — clic para expandir</summary>
+
+<br>
+
 ### 🧑‍💻 Sobre mí
 
 Tengo 19 años y estoy dando mis primeros pasos profesionales en el mundo IT. Completé una práctica profesional en **Ankaloo Construcciones** trabajando con tickets de soporte, monitoreo de infraestructura, Active Directory y scripting — resolviendo problemas reales, no solo teoría.
 
 Me interesa seguir creciendo en soporte técnico y, a largo plazo, en infraestructura y redes. Documento lo que voy aprendiendo porque creo que escribir sobre algo es la mejor forma de entenderlo de verdad.
 
+### 📌 En qué estoy ahora
+
+- 🔭 Buscando activamente oportunidades como **IT Support / Help Desk / Junior Sysadmin**
+- 📖 Documentando lo que aprendo en soporte técnico e infraestructura
+- 🎯 Preparándome para certificaciones (CompTIA A+, Google IT Support, CCNA)
+- 💬 Abierto a conversar sobre soporte técnico, redes o sistemas
+
+</details>
+
+<details>
+<summary><b>🇬🇧 English</b> — click to expand</summary>
+
+<br>
+
+### 🧑‍💻 About me
+
+I'm 19 years old, taking my first professional steps in the IT world. I completed a professional internship at **Ankaloo Construcciones**, working with support tickets, infrastructure monitoring, Active Directory and scripting — solving real problems, not just theory.
+
+I'm eager to keep growing in technical support and, long-term, in infrastructure and networks. I document what I learn because writing about something is the best way to truly understand it.
+
+### 📌 What I'm up to
+
+- 🔭 Actively looking for opportunities in **IT Support / Help Desk / Junior Sysadmin**
+- 📖 Documenting what I learn about technical support and infrastructure
+- 🎯 Preparing for certifications (CompTIA A+, Google IT Support, CCNA)
+- 💬 Open to talk about technical support, networking or systems
+
+</details>
+
+</div>
+
 ---
 
-### 🛠️ Con lo que trabajo
+### 🛠️ Con lo que trabajo / What I work with
 
 **Soporte & Help Desk**
 ![Zammad](https://img.shields.io/badge/-Zammad-000000?style=flat-square)
@@ -48,18 +88,10 @@ Me interesa seguir creciendo en soporte técnico y, a largo plazo, en infraestru
 
 ---
 
-### 📌 En qué estoy ahora
-
-- 🔭 Buscando activamente oportunidades como **IT Support / Help Desk / Junior Sysadmin**
-- 📖 Documentando lo que aprendo en soporte técnico e infraestructura
-- 🎯 Preparándome para certificaciones (CompTIA A+, Google IT Support, CCNA)
-- 💬 Abierto a conversar sobre soporte técnico, redes o sistemas
-
----
-
 <div align="center">
 
-📫 **¿Tenés una oportunidad o querés charlar de IT?** Escribime a [juarezvalentin627@gmail.com](mailto:juarezvalentin627@gmail.com)
+📫 **¿Tenés una oportunidad o querés charlar de IT? / Have an opportunity or want to talk IT?**
+[juarezvalentin627@gmail.com](mailto:juarezvalentin627@gmail.com)
 
 <sub>Portfolio hecho a mano, sin frameworks — <a href="https://valentinjz.vercel.app">valentinjz.vercel.app</a></sub>
 
