@@ -52,7 +52,7 @@ Me interesa seguir creciendo en soporte técnico y, a largo plazo, en infraestru
 
 - 🔭 Buscando activamente oportunidades como **IT Support / Help Desk / Junior Sysadmin**
 - 📖 Documentando lo que aprendo en soporte técnico e infraestructura
-- 🎯 Preparándome para certificaciones (CompTIA A+, Google IT Support)
+- 🎯 Preparándome para certificaciones (CompTIA A+, Google IT Support, CCNA)
 - 💬 Abierto a conversar sobre soporte técnico, redes o sistemas
 
 ---
