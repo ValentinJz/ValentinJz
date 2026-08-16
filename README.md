@@ -39,7 +39,7 @@ Me interesa seguir creciendo en soporte técnico y, a largo plazo, en infraestru
 </details>
 
 <details>
-<summary><b>🇬🇧 English</b> — click to expand</summary>
+<summary><b>🇺🇸 English</b> — click to expand</summary>
 
 <br>
 
