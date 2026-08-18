@@ -66,7 +66,7 @@ I've always enjoyed figuring out why something isn't working and finding a way t
 
 * 🛠️ Scripts and small tools for automating support tasks
 * 📋 Guides and procedures for solving common issues
-* 💻 Resources for Windows, hardware and software
+* 💻 Resources for Windows/Linux, hardware and software
 * 🖥️ System administration tools and configurations
 * 🌐 Networking and connectivity resources
 * 📚 Notes and documentation from things I'm learning
