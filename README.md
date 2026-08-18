@@ -25,9 +25,15 @@ Córdoba, Argentina 🇦🇷
 
 ### 🧑‍💻 Sobre mí
 
-Tengo 19 años y estoy dando mis primeros pasos profesionales en el mundo IT. Completé una práctica profesional en **Ankaloo Construcciones** trabajando con tickets de soporte, monitoreo de infraestructura, Active Directory y scripting — resolviendo problemas reales, no solo teoría.
+Tengo 19 años, soy de Córdoba, Argentina, y estoy empezando a construir mi camino profesional en IT. Actualmente estoy enfocado principalmente en Soporte Técnico, Help Desk e Infraestructura, y me interesa seguir aprendiendo sobre redes, sistemas y administración de equipos.
 
-Me interesa seguir creciendo en soporte técnico y, a largo plazo, en infraestructura y redes. Documento lo que voy aprendiendo porque creo que escribir sobre algo es la mejor forma de entenderlo de verdad.
+Siempre me gustó entender por qué algo no funciona y buscar la forma de solucionarlo. Por eso, además de mi experiencia en soporte, uso GitHub para guardar y compartir las cosas que voy aprendiendo y creando.
+
+En mi perfil vas a encontrar scripts, herramientas, guías, documentación y recursos pensados principalmente para soporte IT, además de proyectos y experimentos relacionados con las áreas que me interesan.
+
+La idea es ir construyendo todo esto mientras aprendo y, cuando algo pueda serle útil a otra persona que trabaja o está empezando en IT, dejarlo documentado y disponible.
+
+Me interesa seguir creciendo en soporte técnico y, a largo plazo, en infraestructura y redes como sysadmin.
 
 ### 📌 En qué estoy ahora
 
@@ -45,9 +51,15 @@ Me interesa seguir creciendo en soporte técnico y, a largo plazo, en infraestru
 
 ### 🧑‍💻 About me
 
-I'm 19 years old, taking my first professional steps in the IT world. I completed a professional internship at **Ankaloo Construcciones**, working with support tickets, infrastructure monitoring, Active Directory and scripting — solving real problems, not just theory.
+I'm 19 years old, from Córdoba, Argentina, and I'm starting to build my professional path in IT. Right now, I'm mainly focused on Technical Support, Help Desk and Infrastructure, while continuing to learn about networking, systems and device administration.
 
-I'm eager to keep growing in technical support and, long-term, in infrastructure and networks. I document what I learn because writing about something is the best way to truly understand it.
+I've always enjoyed figuring out why something isn't working and finding a way to fix it. That's why, alongside my experience in technical support, I use GitHub to keep and share the things I learn and build.
+
+On my profile, you'll find scripts, tools, guides, documentation and resources mainly focused on IT support, as well as projects and experiments related to the areas I'm interested in.
+
+The idea is to keep building everything as I learn and, whenever I come across something that could be useful to someone working in or starting out in IT, document it and make it available.
+
+I'm eager to keep growing in technical support and, long-term, in infrastructure and networks as sysadmin.
 
 ### 📌 What I'm up to
 
