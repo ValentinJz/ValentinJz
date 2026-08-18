@@ -29,18 +29,25 @@ Tengo 19 años, soy de Córdoba, Argentina, y estoy empezando a construir mi cam
 
 Siempre me gustó entender por qué algo no funciona y buscar la forma de solucionarlo. Por eso, además de mi experiencia en soporte, uso GitHub para guardar y compartir las cosas que voy aprendiendo y creando.
 
-En mi perfil vas a encontrar scripts, herramientas, guías, documentación y recursos pensados principalmente para soporte IT, además de proyectos y experimentos relacionados con las áreas que me interesan.
+### 🔍 Acá vas a encontrar
+
+* 🛠️ Scripts y pequeñas herramientas para automatizar tareas de soporte
+* 📋 Guías y procedimientos para resolver problemas frecuentes
+* 💻 Recursos para Windows/Linux, hardware y software
+* 🖥️ Configuraciones y herramientas para administración de sistemas
+* 🌐 Material relacionado con redes y conectividad
+* 📚 Apuntes y documentación de cosas que voy aprendiendo
 
 La idea es ir construyendo todo esto mientras aprendo y, cuando algo pueda serle útil a otra persona que trabaja o está empezando en IT, dejarlo documentado y disponible.
 
+### 🚀 En qué estoy ahora
+
+* 🔭 Buscando activamente oportunidades como **IT Support / Help Desk / Junior Sysadmin**
+* 📖 Documentando lo que aprendo en soporte técnico e infraestructura
+* 🎯 Preparándome para certificaciones (CompTIA A+, Google IT Support, CCNA)
+* 💬 Abierto a conversar sobre soporte técnico, redes o sistemas
+
 Me interesa seguir creciendo en soporte técnico y, a largo plazo, en infraestructura y redes como sysadmin.
-
-### 📌 En qué estoy ahora
-
-- 🔭 Buscando activamente oportunidades como **IT Support / Help Desk / Junior Sysadmin**
-- 📖 Documentando lo que aprendo en soporte técnico e infraestructura
-- 🎯 Preparándome para certificaciones (CompTIA A+, Google IT Support, CCNA)
-- 💬 Abierto a conversar sobre soporte técnico, redes o sistemas
 
 </details>
 
@@ -55,18 +62,25 @@ I'm 19 years old, from Córdoba, Argentina, and I'm starting to build my profess
 
 I've always enjoyed figuring out why something isn't working and finding a way to fix it. That's why, alongside my experience in technical support, I use GitHub to keep and share the things I learn and build.
 
-On my profile, you'll find scripts, tools, guides, documentation and resources mainly focused on IT support, as well as projects and experiments related to the areas I'm interested in.
+### 🔍 Here you'll find
+
+* 🛠️ Scripts and small tools for automating support tasks
+* 📋 Guides and procedures for solving common issues
+* 💻 Resources for Windows, hardware and software
+* 🖥️ System administration tools and configurations
+* 🌐 Networking and connectivity resources
+* 📚 Notes and documentation from things I'm learning
 
 The idea is to keep building everything as I learn and, whenever I come across something that could be useful to someone working in or starting out in IT, document it and make it available.
 
+### 🚀 What I'm up to
+
+* 🔭 Actively looking for opportunities in **IT Support / Help Desk / Junior Sysadmin**
+* 📖 Documenting what I learn about technical support and infrastructure
+* 🎯 Preparing for certifications (CompTIA A+, Google IT Support, CCNA)
+* 💬 Open to talk about technical support, networking or systems
+
 I'm eager to keep growing in technical support and, long-term, in infrastructure and networks as sysadmin.
-
-### 📌 What I'm up to
-
-- 🔭 Actively looking for opportunities in **IT Support / Help Desk / Junior Sysadmin**
-- 📖 Documenting what I learn about technical support and infrastructure
-- 🎯 Preparing for certifications (CompTIA A+, Google IT Support, CCNA)
-- 💬 Open to talk about technical support, networking or systems
 
 </details>
 
