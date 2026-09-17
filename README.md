@@ -2,7 +2,7 @@
 
 # Hola, soy Valentín 👋
 
-**Analista de Soporte IT Junior · Infraestructura · Help Desk**
+**Analista de Soporte IT · Infraestructura (NOC) · Help Desk**
 
 Córdoba, Argentina 🇦🇷
 
@@ -25,7 +25,7 @@ Córdoba, Argentina 🇦🇷
 
 ### 🧑‍💻 Sobre mí
 
-Tengo 19 años, soy de Córdoba, Argentina, y estoy empezando a construir mi camino profesional en IT. Actualmente estoy enfocado principalmente en Soporte Técnico, Help Desk e Infraestructura, y me interesa seguir aprendiendo sobre redes, sistemas y administración de equipos.
+Tengo 19 años, soy de Córdoba, Argentina, y estoy empezando a documentar mi camino profesional en IT. Actualmente estoy enfocado principalmente en Soporte Técnico, Help Desk e Infraestructura, y me interesa seguir aprendiendo sobre redes, sistemas y administración de equipos.
 
 Siempre me gustó entender por qué algo no funciona y buscar la forma de solucionarlo. Por eso, además de mi experiencia en soporte, uso GitHub para guardar y compartir las cosas que voy aprendiendo y creando.
 
@@ -58,7 +58,7 @@ Me interesa seguir creciendo en soporte técnico y, a largo plazo, en infraestru
 
 ### 🧑‍💻 About me
 
-I'm 19 years old, from Córdoba, Argentina, and I'm starting to build my professional path in IT. Right now, I'm mainly focused on Technical Support, Help Desk and Infrastructure, while continuing to learn about networking, systems and device administration.
+I'm 19 years old, from Córdoba, Argentina, and I'm starting to document my professional path in IT. Right now, I'm mainly focused on Technical Support, Help Desk and Infrastructure, while continuing to learn about networking, systems and device administration.
 
 I've always enjoyed figuring out why something isn't working and finding a way to fix it. That's why, alongside my experience in technical support, I use GitHub to keep and share the things I learn and build.
 
