@@ -117,7 +117,7 @@ I'm eager to keep growing in technical support and, long-term, in infrastructure
 <div align="center">
 
 📫 **¿Tenés una oportunidad o querés charlar de IT? / Have an opportunity or want to talk IT?**
-[valentinjuarezit@gmail.com](mailto: valentinjuarezit@gmail.com)
+[valentinjuarezit@gmail.com](mailto:valentinjuarezit@gmail.com)
 
 <sub>Portfolio hecho a mano, sin frameworks — <a href="https://valentinjz.vercel.app">valentinjz.vercel.app</a></sub>
 
