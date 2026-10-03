@@ -90,27 +90,42 @@ I'm eager to keep growing in technical support and, long-term, in infrastructure
 
 ### 🛠️ Con lo que trabajo / What I work with
 
-**Soporte & Help Desk**
+**IT Support & Help Desk**
 ![Zammad](https://img.shields.io/badge/-Zammad-000000?style=flat-square)
 ![AnyDesk](https://img.shields.io/badge/-AnyDesk-EF443B?style=flat-square)
+![RDP](https://img.shields.io/badge/-RDP-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Quick Assist](https://img.shields.io/badge/-Quick%20Assist-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
-**Infraestructura & Sistemas**
+**Infrastructure & Systems**
 ![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/-Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
-**Redes**
+**Networking**
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-4B32C3?style=flat-square)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![DNS](https://img.shields.io/badge/-DNS-4B32C3?style=flat-square)
+![DHCP](https://img.shields.io/badge/-DHCP-4B32C3?style=flat-square)
+![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-049FD9?style=flat-square&logo=cisco&logoColor=white)
 
-**Sistemas Operativos**
+**Hosting & Cloud**
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Hostinger](https://img.shields.io/badge/-Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Operating Systems**
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Scripting & Software**
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 ---
 
@@ -119,6 +134,6 @@ I'm eager to keep growing in technical support and, long-term, in infrastructure
 📫 **¿Tenés una oportunidad o querés charlar de IT? / Have an opportunity or want to talk IT?**
 [valentinjuarezit@gmail.com](mailto:valentinjuarezit@gmail.com)
 
-<sub>Portfolio hecho a mano, sin frameworks — <a href="https://valentinjz.vercel.app">valentinjz.vercel.app</a></sub>
+<sub>**Portfolio**: <a href="https://valentinjz.vercel.app">valentinjz.vercel.app</a></sub>
 
 </div>
