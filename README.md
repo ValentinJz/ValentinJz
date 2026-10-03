@@ -8,7 +8,7 @@ Córdoba, Argentina 🇦🇷
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-valentinjz.vercel.app-3b82f6?style=flat-square)](https://valentinjz.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Valent%C3%ADn%20Juarez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/valentin-juarez-/)
-[![Email](https://img.shields.io/badge/Email-juarezvalentin627%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juarezvalentin627@gmail.com)
+[![Email](https://img.shields.io/badge/Email-valentinjuarezit%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:valentinjuarezit@gmail.com)
 
 </div>
 
@@ -117,7 +117,7 @@ I'm eager to keep growing in technical support and, long-term, in infrastructure
 <div align="center">
 
 📫 **¿Tenés una oportunidad o querés charlar de IT? / Have an opportunity or want to talk IT?**
-[juarezvalentin627@gmail.com](mailto:juarezvalentin627@gmail.com)
+[valentinjuarezit@gmail.com](mailto: valentinjuarezit@gmail.com)
 
 <sub>Portfolio hecho a mano, sin frameworks — <a href="https://valentinjz.vercel.app">valentinjz.vercel.app</a></sub>
 
