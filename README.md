@@ -96,7 +96,7 @@ I'm eager to keep growing in technical support and, long-term, in infrastructure
 ![RDP](https://img.shields.io/badge/-RDP-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Quick Assist](https://img.shields.io/badge/-Quick%20Assist-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
-**Infrastructure & Systems**
+**Infrastructure & Virtualization**
 ![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
