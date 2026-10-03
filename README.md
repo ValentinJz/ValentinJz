@@ -122,7 +122,7 @@ I'm eager to keep growing in technical support and, long-term, in infrastructure
 
 **Scripting & Software**
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Batch](https://img.shields.io/badge/-Batch-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
