@@ -42,7 +42,7 @@ La idea es ir construyendo todo esto mientras aprendo y, cuando algo pueda serle
 
 ### 🚀 En qué estoy ahora
 
-* 🔭 Actualmente trabajando y abierto a oportunidades como **IT/OT Support / Help Desk / Junior Sysadmin**
+* 🔭 Actualmente trabajando y abierto a escuchar oportunidades como **IT/OT Support / Help Desk / Junior Sysadmin**
 * 📖 Documentando lo que aprendo en soporte técnico e infraestructura
 * 🎯 Preparándome para certificaciones (CompTIA A+, Google IT Support, CCNA)
 * 💬 Abierto a conversar sobre soporte técnico, redes o sistemas
@@ -75,7 +75,7 @@ The idea is to keep building everything as I learn and, whenever I come across s
 
 ### 🚀 What I'm up to
 
-* 🔭 Currently working and open to opportunities like **IT/OT Support / Help Desk / Junior Sysadmin**
+* 🔭 Currently working and open to hearing opportunities like **IT/OT Support / Help Desk / Junior Sysadmin**
 * 📖 Documenting what I learn about technical support and infrastructure
 * 🎯 Preparing for certifications (CompTIA A+, Google IT Support, CCNA)
 * 💬 Open to talk about technical support, networking or systems
